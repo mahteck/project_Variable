@@ -54,3 +54,7 @@ let firstName1: string = "Mah";
 let LastName1: string = "Teck";
 let fullName1: string = `${firstName1} ${LastName1}`;
 console.log(fullName1);
+
+
+let userName1: unknown = "shoaib unknown";
+console.log(userName1);

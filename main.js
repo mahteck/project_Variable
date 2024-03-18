@@ -41,3 +41,5 @@ var firstName1 = "Mah";
 var LastName1 = "Teck";
 var fullName1 = "".concat(firstName1, " ").concat(LastName1);
 console.log(fullName1);
+var userName1 = "shoaib unknown";
+console.log(userName1);
